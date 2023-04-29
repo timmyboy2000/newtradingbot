@@ -1,5 +1,4 @@
-# newtradingbot
-Sure! Here's an example README file for a trading bot project:
+
 
 # Trading Bot
 
